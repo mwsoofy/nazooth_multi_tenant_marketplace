@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div>
       <h1>Hello Soofy!</h1>
-      <p>Lets Edit This</p>
+      <p>Lets Edit This kooi</p>
     </div>
   );
 }
